@@ -1,0 +1,5 @@
+pandas
+piecewise-regression
+matplotlib
+pyqt5
+openpyxl
